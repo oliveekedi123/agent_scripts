@@ -1,5 +1,6 @@
 #!/bin/bash
-
+Author: Olive
+Date:07/2020
 lscpu
 cat /etc/*release
 nproc
